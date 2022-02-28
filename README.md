@@ -21,7 +21,7 @@ Flask
 GitHub
 Heroku
 
-Python version 3
+Python version 3.9
 
 Text Editor, either Atom or Visual Studio
 
