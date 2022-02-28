@@ -2,10 +2,10 @@
 Application Name
 News-App
 
-Project Description
+# Project Description
 This is a news API application that gives you the latest news and on different categories;Sports, Technology, Sciences, Business and health.
 
-Developer
+# Developer
 Name: Marial Lugare 
 
 Technologies Used
