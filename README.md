@@ -39,6 +39,8 @@ on your terminal, switch to virtual environment
 Run: chmod a + x start.sh ; this is to make the program excecutable
 
 Run the app: start.sh
+# live link
+marial-news-app.herokuapp.com/
 
 # Dependencies
 certifi==2021.5.30
