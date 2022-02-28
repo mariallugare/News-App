@@ -8,12 +8,12 @@ This is a news API application that gives you the latest news and on different c
 # Developer
 Name: Marial Lugare 
 
-Technologies Used
+# Technologies Used
 Python
 HTML
 CSS
 Flask
-Set Up Requirements
+# Set Up Requirements
 GitHub
 Python version 3
 Text Editor, either Atom or Visual Studio
