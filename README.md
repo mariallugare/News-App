@@ -10,9 +10,13 @@ Name: Marial Lugare
 
 # Technologies Used
 Python
+
 HTML
+
 CSS
+
 Flask
+
 # Set Up Requirements
 GitHub
 Heroku
