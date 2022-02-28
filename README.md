@@ -15,11 +15,16 @@ CSS
 Flask
 # Set Up Requirements
 GitHub
+
 Python version 3
+
 Text Editor, either Atom or Visual Studio
+
 Web Browser, Preferably Chrome
-Heroku for Deployment
-Set Up Process
+
+Heroku for 
+
+# Set Up Process
 Ensure you have installed all the requirements before trying to run the app.
 Git Clone the news-app from Github,open it in your preferred editor
 on your terminal, switch to virtual environment
