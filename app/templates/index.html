@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>News app</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+
+      <ul class="nav">
+        <li><a class="active" href="#home">Home</a></li>
+        <li><a href="#news">News</a></li>
+        <li><a href="#contact">Contact</a></li>
+        <li><a href="#about">About</a></li>
+      </ul>
+        </div>
+      
+
+   
+  <ul>
+
+    {% for user in news %}   
+    <li class="des">
+        <h1>{{user.title}}</h1> 
+        <p>{{user.description}}</p>
+        <img src="{{user.urlToImage}}" width="800" height="300"alt="">
+    </li>
+    
+    
+    {% endfor %}
+  </ul>  
+</body>
+</html>
+
+
+
