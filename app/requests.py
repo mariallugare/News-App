@@ -17,7 +17,7 @@ def get_all_news(sources="news-com-au,al-jazeera-english,associated-press,the-wa
     Function that gets the json response to our url request
     '''
     # get_news_url = '{}/everything?language=en&pageSize={}&sources={}&apiKey={}'.format(base_url,page_size,sources, api_key)
-    get_news_url = 'https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=d4f3a1944f534b2b962ebe231208abd2'
+    get_news_url = 'https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=d4f3a1944f534b2b962ebe231208abd2 '
     
 
     with urllib.request.urlopen(get_news_url) as url:
