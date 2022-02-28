@@ -35,6 +35,27 @@ Run: chmod a + x start.sh ; this is to make the program excecutable
 
 Run the app: start.sh
 
+# Dependencies
+certifi==2021.5.30
+charset-normalizer==2.0.4
+click==8.0.1
+dominate==2.6.0
+Flask==1.1.2
+Flask-Bootstrap==3.3.7.1
+Flask-Script==2.0.6
+gunicorn==20.1.0
+idna==3.2
+importlib-metadata==4.8.1
+itsdangerous==2.0.1
+Jinja2==3.0.1
+MarkupSafe==2.0.1
+requests==2.26.0
+typing-extensions==3.10.0.2
+urllib3==1.26.6
+visitor==0.1.3
+Werkzeug==2.0.1
+zipp==3.5.0
+
 # LICENCE
 
 Copyright 2022 || Marial A lugare
