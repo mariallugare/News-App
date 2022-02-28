@@ -22,14 +22,19 @@ Text Editor, either Atom or Visual Studio
 
 Web Browser, Preferably Chrome
 
-Heroku for 
+Heroku for deployment
 
 # Set Up Process
 Ensure you have installed all the requirements before trying to run the app.
+
 Git Clone the news-app from Github,open it in your preferred editor
+
 on your terminal, switch to virtual environment
+
 Run: chmod a + x start.sh ; this is to make the program excecutable
+
 Run the app: start.sh
+
 LICENCE
 Copyright 2022 || Marial A lugare
 
